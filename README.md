@@ -22,14 +22,21 @@ Enter '''npm start''' in your terminal to start the server. From there you can t
 
 ### Technologies
 *node.js
+
 *Express
+
 *Mongoose
+
 *MongoDB
+
 *Insomnia
+
 
 ### Installation
 *Clone the repository 
+
 *Run '''npm install''' in your terminal to aquire all dependencies
+
 
 ### Demonstration
 Please click on link for demonstration: 
